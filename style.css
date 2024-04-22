@@ -1,0 +1,14 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.qrCode {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  border-radius: 25px;
+}
