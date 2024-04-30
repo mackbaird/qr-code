@@ -5,10 +5,47 @@
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
-
 .qrCode {
   display: block;
   margin: 0 auto;
-  max-width: 100%;
+  width: 475px;
   border-radius: 25px;
+  padding: 2px;
+  padding-top: 10px;
+}
+body {
+  background: hsl(212, 45%, 89%);
+}
+#root {
+  background: hsl(0, 0%, 100%);
+  border-radius: 25px;
+  box-shadow: 0 50px 50px #41326414;
+  padding: 10px;
+  max-width: 500px;
+  text-align: center;
+  margin: 50px auto;
+}
+h1 {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  padding: 2px;
+}
+p {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 15px;
+  color: hsl(220, 15%, 55%);
+  padding: 2px;
+}
+.attribution {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 13px;
+  padding-bottom: 10px;
 }
