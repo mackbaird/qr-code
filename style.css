@@ -31,6 +31,7 @@ h1 {
   font-weight: 700;
   font-style: normal;
   padding: 2px;
+  margin: 0 20px 15px 20px;
 }
 p {
   font-family: "Outfit", sans-serif;
@@ -40,6 +41,7 @@ p {
   font-size: 15px;
   color: hsl(220, 15%, 55%);
   padding: 2px;
+  margin: 25px 40px 0 40px;
 }
 .attribution {
   font-family: "Outfit", sans-serif;
